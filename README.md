@@ -1,5 +1,5 @@
 # VeriYapilari_LAB3
-
+Ders Yürütücüsü: Prof. Yahya KARSLIGİL
 # Konu : Graflar
 
 Problem: Nesnelerin birbirlerine benzerliklerine göre gruplanması(clustering) Makine Öğrenmesinin önemli konularından birisidir. Dokümanların içerik benzerliklerine göre gruplanması, tıbbi görüntülerin  benzerliklerine göre gruplanması bu konuda yapılan uygulamalara örnek verilebilir. 
